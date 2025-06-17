@@ -1,26 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building a cryptocurrency-powered luxury vehicle marketplace at CryptoAutos, where I’m developing a responsive UI and secure buyer dashboard using Next.js 15, TypeScript, Tailwind CSS, and integrating blockchain payment systems.<br>👯 I’m looking to collaborate on<br>AI-integrated SaaS platforms, front-end heavy web apps, or decentralized applications (dApps) using Next.js, React, TypeScript, and REST/GraphQL APIs.<br>🤝 I’m looking for help with<br>Advancing my expertise in Web3 technologies, state management patterns for large-scale apps, and contributing to open-source projects using TypeScript and Next.js<br>🌱 I’m currently learning<br>Advanced SEO with SSR & ISR in Next.js 15, as well as integrating cutting-edge AI tools like Gemini, GPT-3.5 Turbo, and HuggingFace APIs into real-world applications.<br>💬 Ask me about<br>Frontend architecture in React/Next.js, building scalable UIs with Tailwind CSS, API integration using Redux Toolkit Query or React Query, and implementing authentication with NextAuth.<br>⚡ Fun fact<br>I once helped launch an Ethereum-based token (Autos Token) listed on KuCoin while working on a crypto vehicle marketplace—where users can literally buy cars with crypto
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Fahad+Kazmi;AI+%E2%9A%99%EF%B8%8F+Next.js+%E2%9A%99%EF%B8%8F+Web3;Building+the+Future+with+Code" alt="Animated Header" />
+</h1>
 
+<h3 align="center">
+  <a href="https://cryptoautos.io" target="_blank">
+    <img src="https://img.shields.io/badge/🚗_CryptoAutos-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="CryptoAutos" />
+  </a>
+  <a href="https://buymeacoffee.com/fahadkazmip" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me Coffee" />
+  </a>
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahad_kazmi25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahadkazmi25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fahadkazmi492) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fahad_kazmi25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadkazmi492@gmail.com) 
+<div align="center">
+  <img src="https://github-profile-3d-card.vercel.app/api?username=fahadkazmi25&theme=radical&border=10" width="400" alt="3D Profile Card" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=plastic&logo=solid&logoColor=c8c9cb) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=plastic&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=plastic&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fahadkazmi25&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fahadkazmi25&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkazmi25&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fahadkazmi25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🔥 **Latest Projects**
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [CryptoAutos](https://github.com/fahadkazmi25/cryptoautos) | <img src="https://img.shields.io/badge/-Next.js_15-000000?logo=nextdotjs" height="20"/> <img src="https://img.shields.io/badge/-Web3-3C3C3D?logo=web3dotjs" height="20"/> | Crypto-powered luxury vehicle marketplace |
+| [AI SaaS Boilerplate](https://github.com/fahadkazmi25/ai-saas) | <img src="https://img.shields.io/badge/-GPT_4-412991?logo=openai" height="20"/> <img src="https://img.shields.io/badge/-Gemini-FF6F00?logo=google" height="20"/> | Multi-model AI integration platform |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
+### 🛠️ **Tech Galaxy**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,graphql,solidity,web3,firebase,aws,vercel&perline=10" alt="Skill Icons" />
+</p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fahadkazmip) 
+### 🤖 **AI Arsenal**
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Gemini-FF6F00?logo=google&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?logo=stabilityai" height="25"/>
+  <img src="https://img.shields.io/badge/DALL·E_3-000000?logo=openai" height="25"/>
+  <img src="https://img.shields.io/badge/DeepSeek-0F6FFF?logo=&logoColor=white" height="25"/>
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📊 **GitHub Analytics**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadkazmi25&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkazmi25&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkazmi25&layout=compact&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahadkazmi25&theme=radical&column=4&margin-w=15" width="48%" />
+</div>
+
+---
+
+### 🎵 **Coding Vibes**
+[![Spotify](https://spotify-now-playing-readme.vercel.app/api?theme=dark)](https://open.spotify.com/user/your-id)
+
+---
+
+### 🌐 **Let's Connect**
+<p align="center">
+  <a href="https://linkedin.com/in/fahadkazmi25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://x.com/fahad_kazmi25" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:fahadkazmi492@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahadkazmi25&label=Profile+Views&color=blueviolet" alt="Visitor Counter" />
+</div>
+
+<!-- Proudly created with Next.js & Coffee -->
