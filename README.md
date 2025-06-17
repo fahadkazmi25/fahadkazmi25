@@ -98,7 +98,6 @@ const FahadKazmi = {
   <br/>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkazmi25&layout=compact&theme=synthwave&border_radius=15&bg_color=0d1117&border_color=00f0ff" style="width: 100%; height: 200px;" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadkazmi25&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff" style="width: 100%; height: 200px;" />
   </div>
 </div>
 
