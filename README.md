@@ -11,7 +11,7 @@
 ## <div align="center">🚀 **DIGITAL ARCHITECT & INNOVATION CATALYST** 🚀</div>
 
 <div align="center">
-  <img src="https://github-profile-3d-card.vercel.app/api?username=fahadkazmi25&theme=synthwave&border=20&background=linear-gradient(135deg,#667eea_0%,#764ba2_100%)" width="450" alt="3D Profile" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=200&section=header&text=DIGITAL%20ARCHITECT&fontSize=40&fontColor=ffffff&animation=blinking" width="100%" />
 </div>
 
 ---
@@ -71,11 +71,12 @@ const FahadKazmi = {
 
 #### **Blockchain & Web3**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js&perline=3&theme=dark" alt="Web3 Stack" />
-  <br/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black&style=for-the-badge" height="48"/>
-  <img src="https://img.shields.io/badge/Truffle-5E4692?logo=truffle&logoColor=white&style=for-the-badge" height="48"/>
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?logo=metamask&logoColor=white&style=for-the-badge" height="48"/>
+  <img src="https://skillicons.dev/icons?i=solidity&perline=1&theme=dark" alt="Solidity" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/000000/ethereum.png" alt="Ethereum" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/web3.png" alt="Web3" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/hardhat.png" alt="Hardhat" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/truffle.png" alt="Truffle" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/metamask-logo.png" alt="MetaMask" height="48"/>
 </div>
 
 ---
@@ -83,13 +84,13 @@ const FahadKazmi = {
 ### <div align="center">🤖 **AI & AUTOMATION TOOLKIT** 🤖</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?logo=openai&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/badge/Claude_AI-FF9900?logo=anthropic&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?logo=stabilityai&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/badge/DALL·E_3-10A37F?logo=openai&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/badge/DeepSeek-0F6FFF?logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/badge/LangChain-FF6B6B?logo=chainlink&logoColor=white&style=for-the-badge" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/openai.png" alt="OpenAI" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Gemini" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/anthropic.png" alt="Claude" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/stability-ai.png" alt="Stable Diffusion" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/dall-e.png" alt="DALL-E" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/deepseek.png" alt="DeepSeek" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/langchain.png" alt="LangChain" height="48"/>
 </div>
 
 ---
@@ -97,21 +98,28 @@ const FahadKazmi = {
 ### <div align="center">📊 **PERFORMANCE METRICS** 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadkazmi25&show_icons=true&theme=synthwave&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00f0ff" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkazmi25&theme=synthwave&border_radius=15&background=0d1117&border=00f0ff" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkazmi25&layout=donut&theme=synthwave&border_radius=15&bg_color=0d1117&border_color=00f0ff" width="40%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadkazmi25&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff" width="58%" />
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=fahadkazmi25&show_icons=true&theme=synthwave&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00f0ff" style="width: 100%; height: 200px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkazmi25&theme=synthwave&border_radius=15&background=0d1117&border=00f0ff" style="width: 100%; height: 200px;" />
+  </div>
+  <br/>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkazmi25&layout=compact&theme=synthwave&border_radius=15&bg_color=0d1117&border_color=00f0ff" style="width: 100%; height: 200px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadkazmi25&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff" style="width: 100%; height: 200px;" />
+  </div>
 </div>
 
 ---
 
-### <div align="center">🎵 **CODING ATMOSPHERE** 🎵</div>
+### <div align="center">💻 **CODE PHILOSOPHY** 💻</div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify_user&width=400&count=1" alt="Spotify" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares&author=Robert%20C.%20Martin&border=true" alt="Coding Quote" width="600"/>
+</div>
+
+<div align="center">
+  <h3>🌟 "Code is like humor. When you have to explain it, it's bad." 🌟</h3>
+  <p><em>~ Cory House</em></p>
 </div>
 
 ---
