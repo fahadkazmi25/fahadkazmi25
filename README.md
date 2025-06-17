@@ -8,13 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 </div>
 
-## <div align="center">🚀 **DIGITAL ARCHITECT & INNOVATION CATALYST** 🚀</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=200&section=header&text=DIGITAL%20ARCHITECT&fontSize=40&fontColor=ffffff&animation=blinking" width="100%" />
-</div>
-
----
 
 ### <div align="center">💫 **ABOUT THE DIGITAL ALCHEMIST** 💫</div>
 
