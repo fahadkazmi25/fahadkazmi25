@@ -66,9 +66,6 @@ const FahadKazmi = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity&perline=1&theme=dark" alt="Solidity" height="48"/>
   <img src="https://img.icons8.com/fluency/48/000000/ethereum.png" alt="Ethereum" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/web3.png" alt="Web3" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/hardhat.png" alt="Hardhat" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/truffle.png" alt="Truffle" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/metamask-logo.png" alt="MetaMask" height="48"/>
 </div>
 
@@ -77,14 +74,8 @@ const FahadKazmi = {
 ### <div align="center">🤖 **AI & AUTOMATION TOOLKIT** 🤖</div>
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/openai.png" alt="OpenAI" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Gemini" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/anthropic.png" alt="Claude" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/stability-ai.png" alt="Stable Diffusion" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/dall-e.png" alt="DALL-E" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/deepseek.png" alt="DeepSeek" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/langchain.png" alt="LangChain" height="48"/>
-</div>
 
 ---
 
